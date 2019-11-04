@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Dog</string>
+  <string name="hint_dogTitle">Dog Title</string>
+  <string name="hint_dogDescription">Description </string>
+  <string name="button_addDog">Add Dog</string>
+  <string name="menu_addDog">Add</string>
+  <string name="menu_cancelDog">Cancel</string>
+</resources>
